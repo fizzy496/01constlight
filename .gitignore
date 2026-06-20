@@ -1,0 +1,55 @@
+﻿# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE 和编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 编译输出
+bin/
+obj/
+dist/
+build/
+out/
+*.exe
+*.dll
+*.pdb
+
+# 依赖包
+node_modules/
+vendor/
+packages/
+
+# 日志文件
+*.log
+logs/
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 临时文件
+*.tmp
+*.temp
+*.cache
+tmp/
+temp/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# 其他
+*.zip
+*.rar
+*.7z
